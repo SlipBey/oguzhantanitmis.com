@@ -6,9 +6,9 @@ const Footer: FC = () => {
 	return (
 		<div className="mt-24 text-right font-light antialiased">
 			&copy; 2022 All rights reserved. <FiHeart className="text-red-500 inline" />  by{" "}
-			<Link href="https://slip.slipyme.xyz">
+			<Link href="https://slip.slipyme.com">
 						<a target="_blank">
-						<span className="text-blue-600">Slipyme</span>
+						<span className="text-blue-600">SlipBey</span>
 						</a>
 					</Link>{" "}
 					using{" "}
