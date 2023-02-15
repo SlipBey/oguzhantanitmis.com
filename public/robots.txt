@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://botlist.slipyme.com
+
+# Sitemaps
+Sitemap: https://botlist.slipyme.com/sitemap.xml
