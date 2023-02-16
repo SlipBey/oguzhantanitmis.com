@@ -10,11 +10,7 @@ const IndexPage: NextPage = () => {
 					Oğuzhan TANITMIŞ
 				</div>
 				<div className="mt-6 text-xl font-light text-gray-500 antialiased">
-					Ben bir öğrenciyim ve{" "}
-					<span className="border-b-2 border-solid border-sky-500">
-						girişimciyim
-					</span>
-					.
+					Hosting Provider & Game Developer
 				</div>
 				<SocialButton />
 			</div>
